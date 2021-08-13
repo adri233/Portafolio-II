@@ -69,3 +69,21 @@ header{
     
 
 }
+@media only screen and (max-width :375px) {
+    .logo {
+        font-size: 20px;
+        margin-left: 1px; 
+    }
+    
+    
+    .nav li{
+        font-size: 15px;
+        margin-left: 20px;
+        margin-right: 17px;
+    }
+    
+    .uno{
+        width: 70px;
+    }
+    
+}
