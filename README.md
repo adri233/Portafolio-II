@@ -1,5 +1,5 @@
 <img width= "100px" 
-scr="https://jefuentes80.github.io/starup_scl/img/logo_SCL%20(3).png">
+scr="img/scl.png">
 # PORTAFOLIO III PERIODO 2021 
 <ul>
   <li>Colegio Santa catalina laboure.</li>
