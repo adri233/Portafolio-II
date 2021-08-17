@@ -1,5 +1,5 @@
 <img width= "100px" 
-scr="img/scl.png">
+scr="https://github.com/Marilis-0104/Portafolio-II/blob/main/img/scl.png?raw=true">
 # PORTAFOLIO III PERIODO 2021 
 <ul>
   <li>Colegio Santa catalina laboure.</li>
