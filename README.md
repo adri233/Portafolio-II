@@ -1,13 +1,15 @@
-PORTAFOLIO III PERIODO 2021
-Colegio Santa catalina laboure.
+# PORTAFOLIO III PERIODO 2021 
+<ul>
+  <li>Colegio Santa catalina laboure.</li>
 
-Marilis Abigail Escobar Estrada
+  <li>Marilis Abigail Escobar Estrada</li>
 
-Diseño computarizado.
+  <li>Diseño computarizado.</li>
 
-IV bachillerato en ciencias y Letras con orientacion en Diseño grafico.
+  <li>IV bachillerato en ciencias y Letras con orientacion en Diseño grafico.</li>
 
-Profesor Jossue Emanuel Fuentes
+  <li>Profesor Jossue Emanuel Fuentes</li>
+</ul>
 
 # Portafolio-II
 https://marilis-0104.github.io/Portafolio-II/
