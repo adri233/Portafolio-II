@@ -1,4 +1,4 @@
-<img scr="scl.png">
+<img scr="img/scl.png">
 
 # PORTAFOLIO III PERIODO 2021 
 <ul>
